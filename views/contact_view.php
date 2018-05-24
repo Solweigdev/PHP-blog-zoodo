@@ -7,8 +7,7 @@
 <body>
     <?php include_once 'views/includes/header.php' ?>
 
-    <h1>Coucou</h1>
-    <?php var_dump(PATH) ?>
+    <h1>Contact</h1>
 
     <?php include_once 'views/includes/footer.php' ?>
 </body>
