@@ -14,5 +14,8 @@ function str_secur($string) {
  * @param $var
  */
 function debug($var) {
-    echo '<pre>' . var_dump($var) . '</pre>';
+    echo '<pre>';
+    echo var_dump($var);
+    echo '</pre>';
+    exit;
 }

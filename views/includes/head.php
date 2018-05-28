@@ -15,3 +15,8 @@
 <meta property="og:title"       content="<?= WEBSITE_FACEBOOK_NAME ?>" />
 <meta property="og:description" content="<?= WEBSITE_FACEBOOK_DESCRIPTION ?>" />
 <meta property="og:image"       content="<?= WEBSITE_FACEBOOK_IMAGE ?>" />
+
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<link href="../../assets/styles/css/bootstrap.css" rel="stylesheet">
+<link href="../../assets/styles/css/style.css" rel="stylesheet">
+
